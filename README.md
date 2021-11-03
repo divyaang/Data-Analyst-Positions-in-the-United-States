@@ -6,4 +6,6 @@ I have created an interactive tableau dashboard to analyze the data analyst posi
 
 Dataset used: https://www.kaggle.com/andrewmvd/data-analyst-jobs
 
+After downloading the data from the above mentioned source, I have first preprocessed the data in Python and then used the cleaned data for creating the dashboard in Tableau. 
+
 
